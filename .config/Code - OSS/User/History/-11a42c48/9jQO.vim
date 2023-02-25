@@ -1,0 +1,1 @@
+source $Home/.config/nvim/general/settings.vim

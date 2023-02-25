@@ -1,0 +1,2 @@
+2023-02-24 17:54:27.431 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/miguel/.config/nvim/vim-plug/luasnip-settings.vim","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-02-24 17:54:30.636 [info] [perf] Render performance baseline is 23ms

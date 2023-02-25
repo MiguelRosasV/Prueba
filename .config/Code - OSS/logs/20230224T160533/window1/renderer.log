@@ -1,0 +1,2 @@
+2023-02-24 16:05:34.399 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/miguel/.config/nvim/init.vim","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-02-24 16:05:37.530 [info] [perf] Render performance baseline is 24ms

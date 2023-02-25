@@ -1,0 +1,6 @@
+2023-02-24 16:57:24.960 [info] update#ctor - updates are disabled as there is no update URL
+2023-02-24 16:57:25.859 [info] Starting extension host with pid 8570 (fork() took 8 ms).
+2023-02-24 16:58:56.827 [info] Extension host with pid 8570 exited with code: 0, signal: null.
+2023-02-24 16:58:57.496 [info] Starting extension host with pid 8677 (fork() took 5 ms).
+2023-02-24 17:40:46.902 [info] Waiting for extension host with pid 8677 to exit.
+2023-02-24 17:40:46.904 [info] Extension host with pid 8677 exited with code: 0, signal: null.

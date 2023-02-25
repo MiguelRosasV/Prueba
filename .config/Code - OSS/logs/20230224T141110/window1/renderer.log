@@ -1,0 +1,2 @@
+2023-02-24 14:11:11.324 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/miguel/.xsession-errors","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2023-02-24 14:11:14.506 [info] [perf] Render performance baseline is 25ms

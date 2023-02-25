@@ -1,0 +1,78 @@
+2023-02-24 01:48:58.800 [error] Error: Unable to read file '/var/lib/AccountsService/users/.vscode/settings.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, stat '/var/lib/AccountsService/users/.vscode/settings.json')
+    at l.w (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:17298)
+    at l.v (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:16960)
+    at async l.u (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:16242)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1192:7303
+    at async Promise.all (index 0)
+    at async Promise.all (index 0)
+    at async c.resolveContents (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1192:7548)
+    at async c.loadConfiguration (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1192:7684)
+    at async Promise.all (index 0)
+    at async z.ob (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:73977)
+    at async z.fb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:72964)
+    at async z.db (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:71968)
+    at async z.initialize (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:70153)
+    at async ne.j (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2551:68075)
+    at async Promise.all (index 0)
+    at async ne.h (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2551:67022)
+    at async Promise.all (index 0)
+    at async ne.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2551:64287)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/code/electron-sandbox/workbench/workbench.js:4:10282
+2023-02-24 01:48:58.801 [error] Error: Unable to read file '/var/lib/AccountsService/users/.vscode/tasks.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, stat '/var/lib/AccountsService/users/.vscode/tasks.json')
+    at l.w (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:17298)
+    at l.v (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:16960)
+    at async l.u (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:16242)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1192:7303
+    at async Promise.all (index 0)
+    at async Promise.all (index 1)
+    at async c.resolveContents (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1192:7548)
+    at async c.loadConfiguration (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1192:7684)
+    at async Promise.all (index 0)
+    at async z.ob (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:73977)
+    at async z.fb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:72964)
+    at async z.db (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:71968)
+    at async z.initialize (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:70153)
+    at async ne.j (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2551:68075)
+    at async Promise.all (index 0)
+    at async ne.h (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2551:67022)
+    at async Promise.all (index 0)
+    at async ne.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2551:64287)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/code/electron-sandbox/workbench/workbench.js:4:10282
+2023-02-24 01:48:58.801 [error] Error: Unable to read file '/var/lib/AccountsService/users/.vscode/launch.json' (NoPermissions (FileSystemError): Error: EACCES: permission denied, stat '/var/lib/AccountsService/users/.vscode/launch.json')
+    at l.w (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:17298)
+    at l.v (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:16960)
+    at async l.u (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:616:16242)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1192:7303
+    at async Promise.all (index 1)
+    at async Promise.all (index 1)
+    at async c.resolveContents (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1192:7548)
+    at async c.loadConfiguration (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1192:7684)
+    at async Promise.all (index 0)
+    at async z.ob (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:73977)
+    at async z.fb (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:72964)
+    at async z.db (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:71968)
+    at async z.initialize (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2281:70153)
+    at async ne.j (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2551:68075)
+    at async Promise.all (index 0)
+    at async ne.h (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2551:67022)
+    at async Promise.all (index 0)
+    at async ne.open (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2551:64287)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/code/electron-sandbox/workbench/workbench.js:4:10282
+2023-02-24 01:48:59.593 [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /var/lib/AccountsService/users)
+2023-02-24 01:48:59.593 [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+2023-02-24 01:48:59.728 [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /var/lib/AccountsService/users)
+2023-02-24 01:48:59.728 [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+2023-02-24 01:48:59.853 [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /var/lib/AccountsService/users)
+2023-02-24 01:48:59.854 [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+2023-02-24 01:48:59.984 [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /var/lib/AccountsService/users)
+2023-02-24 01:48:59.986 [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+2023-02-24 01:49:00.110 [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /var/lib/AccountsService/users)
+2023-02-24 01:49:00.112 [error] [File Watcher (universal)] restarting watcher after error: Bad file descriptor
+2023-02-24 01:49:00.239 [error] [File Watcher (parcel)] Unexpected error: Bad file descriptor (EUNKNOWN) (path: /var/lib/AccountsService/users)
+2023-02-24 01:49:00.241 [error] [File Watcher (universal)] gave up attempting to restart watcher after error: Bad file descriptor
+2023-02-24 01:49:00.241 [error] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/var/lib/AccountsService/users/.vscode/settings.json'
+2023-02-24 01:49:00.241 [error] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/var/lib/AccountsService/users/.vscode'
+2023-02-24 01:49:00.241 [error] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/var/lib/AccountsService/users/.vscode/tasks.json'
+2023-02-24 01:49:00.241 [error] [File Watcher (node.js)] Error: EACCES: permission denied, stat '/var/lib/AccountsService/users/.vscode/launch.json'
+2023-02-24 01:49:00.379 [error] EACCES: permission denied, scandir '/var/lib/AccountsService/users': Error: EACCES: permission denied, scandir '/var/lib/AccountsService/users'
+2023-02-24 01:49:01.977 [info] [perf] Render performance baseline is 24ms

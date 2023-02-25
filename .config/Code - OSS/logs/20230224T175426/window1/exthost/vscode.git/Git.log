@@ -1,0 +1,4 @@
+2023-02-24 17:54:28.387 [info] Nivel de registro: Info
+2023-02-24 17:54:28.387 [info] La validación encontró GIT en: “git“
+2023-02-24 17:54:28.387 [info] Usando GIT “2.39.2” desde “git”
+2023-02-24 17:54:28.387 [info] > git rev-parse --show-toplevel [3ms]

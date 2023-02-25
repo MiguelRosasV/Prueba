@@ -1,0 +1,8 @@
+2023-02-24 17:53:47.558 [info] Starting worker process with pid 12696 (type: fileWatcher, window: 1).
+2023-02-24 17:54:11.469 [info] Getting Manifest... ms-ceintl.vscode-language-pack-es
+2023-02-24 17:54:12.174 [info] Installing extension: ms-ceintl.vscode-language-pack-es
+2023-02-24 17:54:15.192 [info] Extracted extension to /home/miguel/.vscode-oss/extensions/.8bfeec05-f066-40c9-beae-70e60669b794: ms-ceintl.vscode-language-pack-es
+2023-02-24 17:54:15.194 [info] Renamed to /home/miguel/.vscode-oss/extensions/ms-ceintl.vscode-language-pack-es-1.75.0-universal
+2023-02-24 17:54:15.195 [info] Extracting completed. ms-ceintl.vscode-language-pack-es
+2023-02-24 17:54:15.199 [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-es
+2023-02-24 17:54:15.235 [info] Extension installed successfully: ms-ceintl.vscode-language-pack-es

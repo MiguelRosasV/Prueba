@@ -1,0 +1,7 @@
+2023-02-24 16:08:12.701 [info] Starting worker process with pid 4991 (type: fileWatcher, window: 1).
+2023-02-24 16:08:34.941 [info] Getting Manifest... dunstontc.viml
+2023-02-24 16:08:35.137 [info] Installing extension: dunstontc.viml
+2023-02-24 16:08:36.010 [info] Extracted extension to /home/miguel/.vscode-oss/extensions/.2f26b853-8c3e-4812-b5bc-569a3d7d2f99: dunstontc.viml
+2023-02-24 16:08:36.012 [info] Renamed to /home/miguel/.vscode-oss/extensions/dunstontc.viml-0.1.7-universal
+2023-02-24 16:08:36.013 [info] Extracting completed. dunstontc.viml
+2023-02-24 16:08:36.017 [info] Extension installed successfully: dunstontc.viml

@@ -1,0 +1,11 @@
+2023-02-24 16:15:35.058 [info] Extension host with pid 6187 started
+2023-02-24 16:15:35.058 [info] Skipping acquiring lock for /home/miguel/.config/Code - OSS/User/workspaceStorage/e2af479410e27c03bec533e0c18fa199.
+2023-02-24 16:15:35.120 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-02-24 16:15:35.120 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-02-24 16:15:35.139 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-02-24 16:15:35.139 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-02-24 16:15:35.186 [info] Eager extensions activated
+2023-02-24 16:15:35.197 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 16:15:35.197 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-02-24 16:34:00.579 [info] Extension host terminating: received terminate message from renderer
+2023-02-24 16:34:00.584 [info] Extension host with pid 6187 exiting with code 0

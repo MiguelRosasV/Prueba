@@ -1,0 +1,16 @@
+2023-02-24 01:48:59.444 [info] Starting worker process with pid 17793 (type: fileWatcher, window: 1).
+2023-02-24 01:48:59.594 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-24 01:48:59.595 [info] Worker process with pid 17793 terminated normally (type: fileWatcher, window: 1).
+2023-02-24 01:48:59.601 [info] Starting worker process with pid 17807 (type: fileWatcher, window: 1).
+2023-02-24 01:48:59.729 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-24 01:48:59.730 [info] Worker process with pid 17807 terminated normally (type: fileWatcher, window: 1).
+2023-02-24 01:48:59.735 [info] Starting worker process with pid 17822 (type: fileWatcher, window: 1).
+2023-02-24 01:48:59.855 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-24 01:48:59.855 [info] Worker process with pid 17822 terminated normally (type: fileWatcher, window: 1).
+2023-02-24 01:48:59.862 [info] Starting worker process with pid 17836 (type: fileWatcher, window: 1).
+2023-02-24 01:48:59.987 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-24 01:48:59.987 [info] Worker process with pid 17836 terminated normally (type: fileWatcher, window: 1).
+2023-02-24 01:48:59.993 [info] Starting worker process with pid 17850 (type: fileWatcher, window: 1).
+2023-02-24 01:49:00.113 [warning] SharedProcess: createWorker found an existing worker that will be terminated (window: 1, moduleId: vs/platform/files/node/watcher/watcherMain)
+2023-02-24 01:49:00.113 [info] Worker process with pid 17850 terminated normally (type: fileWatcher, window: 1).
+2023-02-24 01:49:00.118 [info] Starting worker process with pid 17864 (type: fileWatcher, window: 1).
